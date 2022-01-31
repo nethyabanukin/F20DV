@@ -1,3 +1,4 @@
-ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text,Stroke
-"circle", , , , ,"yellow",100,100,100, , , , 
+ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text
+"circle", , , , ,"yellow",20,130,10, , , 
+"circle", , , , ,"deepink",100,200,40, , , 
 
