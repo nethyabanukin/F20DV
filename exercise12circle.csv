@@ -1,5 +1,5 @@
-﻿Shape,X,Y,Stroke,Width,Height,,,,,,,,
-Rectangle ,10,10,red,200,100,,,,,,,,
+﻿ShapeType,X,Y,Width,Height,Fill,,,,,,,,
+Rectangle ,10,10,200,100,Red,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
