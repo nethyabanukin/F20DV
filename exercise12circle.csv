@@ -1,2 +1,2 @@
 ShapeType,X1,Y1,Width,Height,Fill,Cx1,Cy1,R,Rx,Ry,Text,Stroke
-"circle", , , , ,"red",100,130,20,,"hello","pink"
+"circle", , , , ,"yellow",200,500,100, , , , 
