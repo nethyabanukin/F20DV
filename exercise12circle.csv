@@ -1,2 +1,2 @@
-ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text,Stroke
+Shapes,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text,Stroke
 "circle", , , , ,"red",100,130,20, , , ,
