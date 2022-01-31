@@ -1,4 +1,5 @@
 ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R 
 "circle", , , , ,"orange",140,120,60
 "circle", , , , ,"yellow",10,10,20
+"rectangle",100,200,300,400,"blue", , , 
 
