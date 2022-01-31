@@ -1,2 +1,3 @@
 ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text,Stroke
 "circle", , , , ,"yellow",100,100,100, , , , 
+"rectangle",100,200,100,200,"deeppink", , , , , "chocolate",
