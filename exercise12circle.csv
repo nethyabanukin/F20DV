@@ -1,6 +1,2 @@
-﻿ShapeType,X,Y,Width,Height,Fill,,,,,,,,
-Rectangle ,10,10,200,100,Red,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text,Stroke
+"circle", , , , ,"red",100,130,20, , , ,
