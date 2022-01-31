@@ -1,2 +1,2 @@
-ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text
-"circle", , , , ,"yellow",140,120,60, , , ,
+ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R 
+"circle", , , , ,"yellow",140,120,60
