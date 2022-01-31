@@ -1,3 +1,2 @@
 ShapeType,X,Y,Width,Height,Fill,Cx,Cy,R,Rx,Ry,Text,Stroke
-"circle", , , , ,"orange",130,140,20, , , ,
-
+"circle", , , , ,"pink",160,160,50, , , ,
