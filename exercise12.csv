@@ -1,4 +1,4 @@
-﻿Shapes,X,Y,Height,Width,Cx,Cy,Radius,Rx,Ry,Fill,Stroke,Text
+﻿Shapes,X,Y,Height,Width,Cx,Cy,R,Rx,Ry,Fill,Stroke,Text
 Circle,,,,,400,300,50,,,orange,,
 Rectangle,100,200,200,100,,,,,,pink,,
 Circle,,,,,100,340,10,,,red,,
